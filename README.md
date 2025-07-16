@@ -3,6 +3,7 @@
 ## Requirements:
 1. docker available and running.
 2. docker-compose available.
+3. Google project with OAuth2 credentials created. Please copy and paste the CLIENT_ID and CLIENT_SECRET into .env variables.
 
 ## To start project
 1. Clone repository: `git clone https://github.com/fearARGENTINA/challenge-yuno`
