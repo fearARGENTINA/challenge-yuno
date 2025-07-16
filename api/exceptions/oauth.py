@@ -1,0 +1,2 @@
+class AuthorizationHeaderNotFound(Exception):
+    pass

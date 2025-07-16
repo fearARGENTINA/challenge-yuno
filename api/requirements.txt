@@ -1,0 +1,13 @@
+requests==2.32.4
+psycopg2==2.9.10
+flask==3.1.1
+SQLAlchemy==2.0.41
+Flask-SQLAlchemy
+flask-cors==6.0.1
+pydantic==2.9.2
+pydantic-extra-types==2.10.5
+phonenumbers==9.0.9
+Flask-Pydantic==0.12.0
+authlib==1.6.0
+pyjwt==2.10.1
+ecs-logging==2.2.0
